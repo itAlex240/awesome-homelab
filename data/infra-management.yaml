@@ -51,3 +51,6 @@
 
 - name: DebOps
   url: https://github.com/debops/debops
+
+- name: RackArchitect MCP
+  url: https://github.com/itAlex240/rack-architect-mcp
